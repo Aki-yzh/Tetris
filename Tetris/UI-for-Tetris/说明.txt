@@ -1,0 +1,7 @@
+游戏界面的game_window是主游戏窗口
+next_blockwindow是显示下一个方块的窗口
+levelLcd，linesLcd，scoreLcd和要求的一样
+start_button是开始游戏的按键，会联动Timer的启动，按下后会变成pause
+stop_button是终止游戏的按钮，会重置全部
+back_button是返回上一界面的按钮
+游戏主界面位于stackedWidget的page2
